@@ -1,6 +1,8 @@
 # Causal-Inference
 Summarized notes for causal inference, which was used in our "Causal Inf" study group, including Potential Outcomes, Directed Acyclic Graph, Econometrics methods such as IV, DID, RD, etc.
 
+The notion link on the left could provide better reading experience ➡️ 
+
 Table of Content:
 
 Lecture 1: Introduction
