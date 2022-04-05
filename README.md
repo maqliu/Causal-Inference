@@ -29,3 +29,14 @@ https://www.youtube.com/watch?v=5x_pPemAVxs&list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT8
 https://web.archive.org/web/20170910225539/https://www.stats.ox.ac.uk/~lienart/gml15_causalinference.html
 
 https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e
+
+- [https://bookdown.org/jbrophy115/bookdown-clinepi/causal.html#dag](https://bookdown.org/jbrophy115/bookdown-clinepi/causal.html#dag)
+- [https://imai.fas.harvard.edu/teaching/files/DAG.pdf](https://imai.fas.harvard.edu/teaching/files/DAG.pdf)
+- [d-separation.pdf](http://web.mit.edu/jmn/www/6.034/d-separation.pdf)
+- [D-separation](https://www.andrew.cmu.edu/user/scheines/tutor/d-sep.html)
+- [https://www.stat.cmu.edu/~cshalizi/350/lectures/31/lecture-31.pdf](https://www.stat.cmu.edu/~cshalizi/350/lectures/31/lecture-31.pdf)
+- [http://bayes.cs.ucla.edu/BOOK-2K/ch3-3.pdf](http://bayes.cs.ucla.edu/BOOK-2K/ch3-3.pdf)
+- [https://www.ssc.wisc.edu/~felwert/causality/wp-content/uploads/2013/06/2-elwert_dags.pdf](https://www.ssc.wisc.edu/~felwert/causality/wp-content/uploads/2013/06/2-elwert_dags.pdf)
+- [https://www.ssc.wisc.edu/~felwert/causality/wp-content/uploads/2013/06/1-Elwert_Causal_Intro.pdf](https://www.ssc.wisc.edu/~felwert/causality/wp-content/uploads/2013/06/1-Elwert_Causal_Intro.pdf)
+- [https://business.baylor.edu//scott_cunningham/teaching/causalinf.pdf](https://business.baylor.edu//scott_cunningham/teaching/causalinf.pdf)
+- [https://scholar.princeton.edu/sites/default/files/bstewart/files/fd_princeton.pdf](https://scholar.princeton.edu/sites/default/files/bstewart/files/fd_princeton.pdf)
